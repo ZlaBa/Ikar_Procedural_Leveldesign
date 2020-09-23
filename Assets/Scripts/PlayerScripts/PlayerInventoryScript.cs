@@ -1,10 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerInventoryScript : MonoBehaviour
 {
     public GameObject[] inventory = new GameObject[7];
+    public Text NumberNow;
+    int countedNumber = 0;
 
     public void AddItem(GameObject item)
     {
@@ -17,6 +20,9 @@ public class PlayerInventoryScript : MonoBehaviour
                 inventory[i] = item;
                 Debug.Log(item.name + " was added");
                 itemAdded = true;
+                //Text un UI anpassen
+                countedNumber = (countedNumber + 1);
+                NumberNow.text = "" + countedNumber;
                 //Interaktion mit dem Objekt
                 item.SendMessage("DoInteraction");
                 break;
