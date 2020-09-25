@@ -50,6 +50,13 @@ public class GameStateManager : MonoBehaviour
         PauseGame(); //Hier wurde etwas geändert! - ERFOLGREICH
     }
 
+    public void WakeUp()
+    {
+        Time.timeScale = 1;
+        GameIsPaused = false;
+        Debug.Log("Wenn du den Fehler gefunden hättest, bräuchte es diese Funktion garnicht...");
+    }
+
     public void BackToMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
