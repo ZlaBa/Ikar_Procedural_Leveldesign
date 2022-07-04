@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 041b938804720944ea8476ad74c04f5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3050731600969008655
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_0
+  - first:
+      213: 6655740503110691227
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_1
+  - first:
+      213: -8990228961901626438
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_2
+  - first:
+      213: 7329458478571706930
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_3
+  - first:
+      213: 2071631310389359687
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_4
+  - first:
+      213: -1018209413169644667
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_5
+  - first:
+      213: -808682526059521333
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_6
+  - first:
+      213: -8667848696887573118
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_7
+  - first:
+      213: -4058164437946436227
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_8
+  - first:
+      213: 6493753478701979617
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_9
+  - first:
+      213: 383773907226341303
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_10
+  - first:
+      213: 1983416374411967385
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_11
+  - first:
+      213: -1859088060392322958
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_12
+  - first:
+      213: -3177449340934681485
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_13
+  - first:
+      213: 2047502090570975107
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_14
+  - first:
+      213: -7905760838322465133
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_15
+  - first:
+      213: -6058227692445210468
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_16
+  - first:
+      213: -116557572526624454
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_17
+  - first:
+      213: 5241888900187901883
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_18
+  - first:
+      213: -6725733673245894036
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_19
+  - first:
+      213: -8214973848792470319
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_20
+  - first:
+      213: 7745020092168571377
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_21
+  - first:
+      213: -6396322140901037872
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_22
+  - first:
+      213: -5220208413572506079
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_23
+  - first:
+      213: -843624429814744382
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_24
+  - first:
+      213: 6385760319114379773
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_25
+  - first:
+      213: 8436563120410974697
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_26
+  - first:
+      213: -8700785354702439760
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_27
+  - first:
+      213: 6745582421757142391
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_28
+  - first:
+      213: -7003225834273863623
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_29
+  - first:
+      213: 8650056567195015591
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_30
+  - first:
+      213: -1502858113202405052
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_31
+  - first:
+      213: -4719784554910356396
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_32
+  - first:
+      213: -8891807001059480685
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_33
+  - first:
+      213: 7824525456423917208
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_34
+  - first:
+      213: -6210838355005985291
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_35
+  - first:
+      213: -2387020690002043614
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_36
+  - first:
+      213: -7314784232858384316
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_37
+  - first:
+      213: -2989902730652389419
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_38
+  - first:
+      213: -8697646814183757591
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_39
+  - first:
+      213: 6949328734725676309
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_40
+  - first:
+      213: 7770328619298321783
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_41
+  - first:
+      213: -8131231180185021866
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_42
+  - first:
+      213: 7421185444527968408
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_43
+  - first:
+      213: 6764184010962304956
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_44
+  - first:
+      213: -6190322561888037332
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_45
+  - first:
+      213: -3121289669784611199
+    second: Alle_Terrains_006_Pinsel_Sand_Beta_001_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0601d44a30665a20800000000000000
+      internalID: 3050731600969008655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a71559b0fd5c50800000000000000
+      internalID: 6655740503110691227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbc64346a4c3380800000000000000
+      internalID: -8990228961901626438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23add3337a777b560800000000000000
+      internalID: 7329458478571706930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b55963b9efbc10800000000000000
+      internalID: 2071631310389359687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b7015fee79ed1f0800000000000000
+      internalID: -1018209413169644667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1822f68bf6c4f0800000000000000
+      internalID: -808682526059521333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850f2fc88d95b780800000000000000
+      internalID: -8667848696887573118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75741cd1f08ea7c0800000000000000
+      internalID: -4058164437946436227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71dfc22627e1a50800000000000000
+      internalID: 6493753478701979617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2a46d550735500800000000000000
+      internalID: 383773907226341303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb4861fa2868b10800000000000000
+      internalID: 1983416374411967385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278452a42413336e0800000000000000
+      internalID: -1859088060392322958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0ac5c8ae67e3d0800000000000000
+      internalID: -3177449340934681485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874a51ad403a6c10800000000000000
+      internalID: 2047502090570975107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39658907768194290800000000000000
+      internalID: -7905760838322465133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986e57f20adceba0800000000000000
+      internalID: -6058227692445210468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313bad5187e16ef0800000000000000
+      internalID: -116557572526624454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf43c79e2eeeb840800000000000000
+      internalID: 5241888900187901883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9b40dbd469a2a0800000000000000
+      internalID: -6725733673245894036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce99f2fcc8efd80800000000000000
+      internalID: -8214973848792470319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f988fb2db6db7b60800000000000000
+      internalID: 7745020092168571377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a0aae6e2bb37a0800000000000000
+      internalID: -6396322140901037872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e518f0b181e87b0800000000000000
+      internalID: -5220208413572506079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cafc010d08da44f0800000000000000
+      internalID: -843624429814744382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df109915d27ce9850800000000000000
+      internalID: 6385760319114379773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d14d8571b41570800000000000000
+      internalID: 8436563120410974697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3a0291d9904780800000000000000
+      internalID: -8700785354702439760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77524f3197f1d9d50800000000000000
+      internalID: 6745582421757142391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938844a553b8fce90800000000000000
+      internalID: -7003225834273863623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a991be2e9c2b0870800000000000000
+      internalID: 8650056567195015591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c1ce2286c42be0800000000000000
+      internalID: -1502858113202405052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c613c24f4ff7eb0800000000000000
+      internalID: -4719784554910356396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba482b4a4f99480800000000000000
+      internalID: -8891807001059480685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896162e427c469c60800000000000000
+      internalID: 7824525456423917208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2f7c2c6baec9a0800000000000000
+      internalID: -6210838355005985291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9be454599fded0800000000000000
+      internalID: -2387020690002043614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44809dfde7aac7a90800000000000000
+      internalID: -7314784232858384316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6e72ce4bb186d0800000000000000
+      internalID: -2989902730652389419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e4cafd40cb4780800000000000000
+      internalID: -8697646814183757591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1db44aa9f07060800000000000000
+      internalID: 6949328734725676309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f355d5b0c5db60800000000000000
+      internalID: 7770328619298321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652dd7e9250182f80800000000000000
+      internalID: -8131231180185021866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8909369b7d85df660800000000000000
+      internalID: 7421185444527968408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff8c015853fdd50800000000000000
+      internalID: 6764184010962304956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d39d7d6e871aa0800000000000000
+      internalID: -6190322561888037332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_006_Pinsel_Sand_Beta_001_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18654672593fea4d0800000000000000
+      internalID: -3121289669784611199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

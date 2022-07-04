@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 161dab6b072b7ed4bae912fcbb62eae8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8236720256273121771
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_0
+  - first:
+      213: 8779455812256133221
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_1
+  - first:
+      213: 325107295101623929
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_2
+  - first:
+      213: -5952632456265182995
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_3
+  - first:
+      213: -3884809678463347838
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_4
+  - first:
+      213: 8575235195035352188
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_5
+  - first:
+      213: -973209276352327878
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_6
+  - first:
+      213: -8440468526832017928
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_7
+  - first:
+      213: -644812872679210330
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_8
+  - first:
+      213: -106802229745509601
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_9
+  - first:
+      213: 3606559303483706784
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_10
+  - first:
+      213: 3827066034464704615
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_11
+  - first:
+      213: 4626628377162033842
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_12
+  - first:
+      213: 1402768628151204643
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_13
+  - first:
+      213: -4200086012376775097
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_14
+  - first:
+      213: -2247984948105858108
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_15
+  - first:
+      213: 8955933400435407567
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_16
+  - first:
+      213: 956696059714283005
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_17
+  - first:
+      213: -8544252929929578722
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_18
+  - first:
+      213: 116854971247884306
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_19
+  - first:
+      213: -3512679439501642186
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_20
+  - first:
+      213: -372214079194520115
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_21
+  - first:
+      213: -1642031112924665367
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_22
+  - first:
+      213: -8882715044891814283
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_23
+  - first:
+      213: -6643245585543461109
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_24
+  - first:
+      213: 1173839912996948951
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_25
+  - first:
+      213: -309040072464453645
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_26
+  - first:
+      213: -3160322407713812364
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_27
+  - first:
+      213: -5632557339978436732
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_28
+  - first:
+      213: -5799602467133078176
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_29
+  - first:
+      213: 7766088385633955887
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_30
+  - first:
+      213: 4451176842977992492
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_31
+  - first:
+      213: 7298343506139026395
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_32
+  - first:
+      213: -2624074767586260890
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_33
+  - first:
+      213: -4216001074157205112
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_34
+  - first:
+      213: 8706937434588282143
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_35
+  - first:
+      213: -1301246842270464703
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_36
+  - first:
+      213: 468482982146893610
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_37
+  - first:
+      213: 6312799665775297353
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_38
+  - first:
+      213: -4204998236810087398
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_39
+  - first:
+      213: 956640986720763385
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_40
+  - first:
+      213: 4172873563119874558
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_41
+  - first:
+      213: 4961516196652533879
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_42
+  - first:
+      213: -789109207991120225
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_43
+  - first:
+      213: 7532742526464827880
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_44
+  - first:
+      213: -7931657455492534631
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_45
+  - first:
+      213: 7221623626994812587
+    second: Alle_Terrains_005_Pinsel_Gestein_Beta_001_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7392219a41bd80800000000000000
+      internalID: -8236720256273121771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f3c2bb84e6d970800000000000000
+      internalID: 8779455812256133221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9b66cc53038400800000000000000
+      internalID: 325107295101623929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05ad5c150046da0800000000000000
+      internalID: -5952632456265182995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28351371e22661ac0800000000000000
+      internalID: -3884809678463347838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c7281f9fa510770800000000000000
+      internalID: 8575235195035352188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f87e6c1577e72f0800000000000000
+      internalID: -973209276352327878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1058289e6dda80800000000000000
+      internalID: -8440468526832017928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24b51db1a2d07f0800000000000000
+      internalID: -644812872679210330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b9cca10ff848ef0800000000000000
+      internalID: -106802229745509601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adc68104921d0230800000000000000
+      internalID: 3606559303483706784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684b3c18487c1530800000000000000
+      internalID: 3827066034464704615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2c700ff5153040800000000000000
+      internalID: 4626628377162033842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb30792a2a77310800000000000000
+      internalID: 1402768628151204643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460236560c46b5c0800000000000000
+      internalID: -4200086012376775097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b9bb999d8dc0e0800000000000000
+      internalID: -2247984948105858108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca32052afdd94c70800000000000000
+      internalID: 8955933400435407567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5294d5ffdd64d00800000000000000
+      internalID: 956696059714283005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f478ca37bc6980800000000000000
+      internalID: -8544252929929578722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f77b2af62f9100800000000000000
+      internalID: 116854971247884306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bfa629a4704fc0800000000000000
+      internalID: -3512679439501642186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5263d5441a5daf0800000000000000
+      internalID: -372214079194520115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e96cf317655639e0800000000000000
+      internalID: -1642031112924665367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769434bab14ab480800000000000000
+      internalID: -8882715044891814283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07000e56537ec3a0800000000000000
+      internalID: -6643245585543461109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbcb5d7e215a4010800000000000000
+      internalID: 1173839912996948951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff256301b116bbf0800000000000000
+      internalID: -309040072464453645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d288a3874424d0800000000000000
+      internalID: -3160322407713812364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe09d11f225d1b0800000000000000
+      internalID: -5632557339978436732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065cd04a84ca38fa0800000000000000
+      internalID: -5799602467133078176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20bfff7d30b6cb60800000000000000
+      internalID: 7766088385633955887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd52e51c1c5cd30800000000000000
+      internalID: 4451176842977992492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3123420cce84560800000000000000
+      internalID: 7298343506139026395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66884fdd6e9659bd0800000000000000
+      internalID: -2624074767586260890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c1324c51cd75c0800000000000000
+      internalID: -4216001074157205112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7f26277145d870800000000000000
+      internalID: 8706937434588282143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ce5924ea01fde0800000000000000
+      internalID: -1301246842270464703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a276e264ac2608600800000000000000
+      internalID: 468482982146893610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943cdb079d19b9750800000000000000
+      internalID: 6312799665775297353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147ac5f168d4a5c0800000000000000
+      internalID: -4204998236810087398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf11fa8eba64d00800000000000000
+      internalID: 956640986720763385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f066956609e930800000000000000
+      internalID: 4172873563119874558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77842d091b8dad440800000000000000
+      internalID: 4961516196652533879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e03b03b558c05f0800000000000000
+      internalID: -789109207991120225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12a6aea6da98860800000000000000
+      internalID: 7532742526464827880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee94561971de190800000000000000
+      internalID: -7931657455492534631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_005_Pinsel_Gestein_Beta_001_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6089c4d6c583460800000000000000
+      internalID: 7221623626994812587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

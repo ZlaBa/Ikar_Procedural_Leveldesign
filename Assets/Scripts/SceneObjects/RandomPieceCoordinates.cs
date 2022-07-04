@@ -32,7 +32,7 @@ public class RandomPieceCoordinates : MonoBehaviour
         Vector3 position = ObjTilemap.CellToWorld(cellPosition);
 
         Instantiate(SpawningObject, position, Quaternion.identity);
-        Debug.Log("Piece spawned at" + " " + position);
+        //Debug.Log("Piece spawned at" + " " + position);
     }
 }
 

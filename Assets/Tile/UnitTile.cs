@@ -11,18 +11,6 @@ public class UnitTile : Tile
     public int UnitGenerationMinimum;
     public int UnitGenerationMaximum;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public override void GetTileData(Vector3Int location, ITilemap tilemap, ref TileData tileData)
     {
         for( int i=Sprites.Length - 1; i >= 0; i--)

@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: f25391871e82a0e49bf46d148c0462ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3082259769703891104
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_0
+  - first:
+      213: -5925804810589042123
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_1
+  - first:
+      213: -4603217395520933846
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_2
+  - first:
+      213: -624330576276021313
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_3
+  - first:
+      213: -7296669200263470625
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_4
+  - first:
+      213: -7661302751497362503
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_5
+  - first:
+      213: 3327879231508153380
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_6
+  - first:
+      213: 6071746089772123614
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_7
+  - first:
+      213: 8405089356926949874
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_8
+  - first:
+      213: 5137918432119816402
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_9
+  - first:
+      213: -6516667769018044926
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_10
+  - first:
+      213: -5052599034165479896
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_11
+  - first:
+      213: -2781192113185702095
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_12
+  - first:
+      213: -901731273894902492
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_13
+  - first:
+      213: 5795663309239493114
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_14
+  - first:
+      213: 2991403634867287605
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_15
+  - first:
+      213: -4951243828659723507
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_16
+  - first:
+      213: 2490727597584139091
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_17
+  - first:
+      213: 5246554798472993946
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_18
+  - first:
+      213: -2343497116197792468
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_19
+  - first:
+      213: 9076228807843838076
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_20
+  - first:
+      213: 272529190587497913
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_21
+  - first:
+      213: -6963723776524545648
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_22
+  - first:
+      213: 5297924067928928844
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_23
+  - first:
+      213: -1388452316851103890
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_24
+  - first:
+      213: -7647343871138202724
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_25
+  - first:
+      213: -7029431227511344631
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_26
+  - first:
+      213: -3541151453837531418
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_27
+  - first:
+      213: 6673201582309308964
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_28
+  - first:
+      213: 1947306419284386135
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_29
+  - first:
+      213: -6499749634176516690
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_30
+  - first:
+      213: 5464888239144767275
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_31
+  - first:
+      213: -8405587365182205506
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_32
+  - first:
+      213: 2548909965932076925
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_33
+  - first:
+      213: -73519404231439566
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_34
+  - first:
+      213: 1173688385125107395
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_35
+  - first:
+      213: 5495278099052520933
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_36
+  - first:
+      213: -3256522139043418092
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_37
+  - first:
+      213: -2563635285240823503
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_38
+  - first:
+      213: -732601902563503301
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_39
+  - first:
+      213: -8948717975693310402
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_40
+  - first:
+      213: -4735863275541975127
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_41
+  - first:
+      213: -316244687232199607
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_42
+  - first:
+      213: 60829710390078847
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_43
+  - first:
+      213: 3428080470473770342
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_44
+  - first:
+      213: 5104712894697588921
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_45
+  - first:
+      213: -7137167591567704490
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_46
+  - first:
+      213: 2639381878987177682
+    second: Alle_Terrains_015_Wasser_Transparenz_Beta_001_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a08da61ee266ca20800000000000000
+      internalID: 3082259769703891104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0a88cbef43cda0800000000000000
+      internalID: -5925804810589042123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20731cea261e10c0800000000000000
+      internalID: -4603217395520933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf17a216aee557f0800000000000000
+      internalID: -624330576276021313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd123c295060dba90800000000000000
+      internalID: -7296669200263470625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e6442db59da590800000000000000
+      internalID: -7661302751497362503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424817977800f2e20800000000000000
+      internalID: 3327879231508153380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed50c3f26ec234450800000000000000
+      internalID: 6071746089772123614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91c01fc30e4a470800000000000000
+      internalID: 8405089356926949874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d00f67979d8d4740800000000000000
+      internalID: 5137918432119816402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e217cd0352095a0800000000000000
+      internalID: -6516667769018044926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b510c2ff81e9b0800000000000000
+      internalID: -5052599034165479896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb27922883769d0800000000000000
+      internalID: -2781192113185702095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42542a81f286c73f0800000000000000
+      internalID: -901731273894902492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12cf0b2155e6050800000000000000
+      internalID: 5795663309239493114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b31cb1c9938920800000000000000
+      internalID: 2991403634867287605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03646c78f5a94bb0800000000000000
+      internalID: -4951243828659723507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c346bd87d09220800000000000000
+      internalID: 2490727597584139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c9a91bac18fc840800000000000000
+      internalID: 5246554798472993946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d0e80ac93a7fd0800000000000000
+      internalID: -2343497116197792468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f2b7430e35fd70800000000000000
+      internalID: 9076228807843838076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd74ebdad738c300800000000000000
+      internalID: 272529190587497913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911052ee12eb5f90800000000000000
+      internalID: -6963723776524545648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4275e3ced1068940800000000000000
+      internalID: 5297924067928928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67958269f93bbce0800000000000000
+      internalID: -1388452316851103890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfb8d344d2fd590800000000000000
+      internalID: -7647343871138202724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f527ca81727e90800000000000000
+      internalID: -7029431227511344631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e72ab38d4bdec0800000000000000
+      internalID: -3541151453837531418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42afe14ab79fb9c50800000000000000
+      internalID: 6673201582309308964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a84efed8360b10800000000000000
+      internalID: 1947306419284386135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadfee515204cc5a0800000000000000
+      internalID: -6499749634176516690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0f6736ee27db40800000000000000
+      internalID: 5464888239144767275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19dc973da595b80800000000000000
+      internalID: -8405587365182205506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f95dbfb1c8f5320800000000000000
+      internalID: 2548909965932076925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcfaacd7ecafef0800000000000000
+      internalID: -73519404231439566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c642682e57c94010800000000000000
+      internalID: 1173688385125107395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5620cd056234c40800000000000000
+      internalID: 5495278099052520933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4103f1b4e528ec2d0800000000000000
+      internalID: -3256522139043418092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13140917a432c6cd0800000000000000
+      internalID: -2563635285240823503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b335deb737645d5f0800000000000000
+      internalID: -732601902563503301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c5a7d964cfc380800000000000000
+      internalID: -8948717975693310402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa08c4175d64eb0800000000000000
+      internalID: -4735863275541975127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449b6be1297c9bf0800000000000000
+      internalID: -316244687232199607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d279f9c4c18d000800000000000000
+      internalID: 60829710390078847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650b00760df29f20800000000000000
+      internalID: 3428080470473770342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b84ec0f45597d640800000000000000
+      internalID: 5104712894697588921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3d2ac3efa3fc90800000000000000
+      internalID: -7137167591567704490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_015_Wasser_Transparenz_Beta_001_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de32abb5d7f0a420800000000000000
+      internalID: 2639381878987177682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

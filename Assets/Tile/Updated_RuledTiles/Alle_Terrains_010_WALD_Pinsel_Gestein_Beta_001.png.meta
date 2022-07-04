@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 2f4b25a16045b9442b93ab28773e471b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -717669354570396403
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_0
+  - first:
+      213: 4853650563055225371
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_1
+  - first:
+      213: 8037833568962144220
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_2
+  - first:
+      213: 4462347774119495644
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_3
+  - first:
+      213: 884363173742730532
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_4
+  - first:
+      213: -7972318728644423866
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_5
+  - first:
+      213: -7160630415886860025
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_6
+  - first:
+      213: -634988137693018962
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_7
+  - first:
+      213: 2559076041662227640
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_8
+  - first:
+      213: 5745014831670709885
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_9
+  - first:
+      213: 8314556984425334043
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_10
+  - first:
+      213: 135520184187050403
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_11
+  - first:
+      213: 7592088673610873125
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_12
+  - first:
+      213: -5781823076601154240
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_13
+  - first:
+      213: -8480020436872466027
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_14
+  - first:
+      213: 8389608410643416438
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_15
+  - first:
+      213: -4149295152769021840
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_16
+  - first:
+      213: -8603694163794217229
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_17
+  - first:
+      213: 1751748425060359954
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_18
+  - first:
+      213: 8006082316617442956
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_19
+  - first:
+      213: 9088810261075037473
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_20
+  - first:
+      213: -4384672606532342530
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_21
+  - first:
+      213: -8491457891776407123
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_22
+  - first:
+      213: 1386472898643500623
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_23
+  - first:
+      213: 1623722982920881416
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_24
+  - first:
+      213: 7347271963472200384
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_25
+  - first:
+      213: -903876632126020992
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_26
+  - first:
+      213: -1136678326845115801
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_27
+  - first:
+      213: -1141699777845410293
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_28
+  - first:
+      213: -127459678971684218
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_29
+  - first:
+      213: -5449477152584830765
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_30
+  - first:
+      213: -1353910745109241769
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_31
+  - first:
+      213: 6395658365117039027
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_32
+  - first:
+      213: -5834747021236648204
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_33
+  - first:
+      213: -5374471211066592015
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_34
+  - first:
+      213: -7272932303645992560
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_35
+  - first:
+      213: -5766182722068874972
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_36
+  - first:
+      213: 4750933141222008295
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_37
+  - first:
+      213: 5616924255028851843
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_38
+  - first:
+      213: 4946136412682524644
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_39
+  - first:
+      213: 2217830602544587485
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_40
+  - first:
+      213: -6313272245764878510
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_41
+  - first:
+      213: -5855679473510660938
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_42
+  - first:
+      213: 2048290826840967983
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_43
+  - first:
+      213: -1871901135906438574
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_44
+  - first:
+      213: 6494268793395908107
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_45
+  - first:
+      213: 1021570419605273335
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_46
+  - first:
+      213: -2322159366100059940
+    second: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc5ae36835a06f0800000000000000
+      internalID: -717669354570396403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a08caa871ab5340800000000000000
+      internalID: 4853650563055225371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e2b17b0f1c8f60800000000000000
+      internalID: 8037833568962144220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c5a478a17ded30800000000000000
+      internalID: 4462347774119495644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d5f57fe93e54c00800000000000000
+      internalID: 884363173742730532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f84fefa52ac5190800000000000000
+      internalID: -7972318728644423866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c43d439450ac90800000000000000
+      internalID: -7160630415886860025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4883037a11037f0800000000000000
+      internalID: -634988137693018962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46d70f91aa38320800000000000000
+      internalID: 2559076041662227640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e451f0d846abf40800000000000000
+      internalID: 5745014831670709885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b154a61668d336370800000000000000
+      internalID: 8314556984425334043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95d56b3e671e100800000000000000
+      internalID: 135520184187050403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b7dd8c648c5960800000000000000
+      internalID: 7592088673610873125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04538059b86d2cfa0800000000000000
+      internalID: -5781823076601154240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f92c775ae05a80800000000000000
+      internalID: -8480020436872466027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c7014660ed6470800000000000000
+      internalID: 8389608410643416438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c3feda0eba66c0800000000000000
+      internalID: -4149295152769021840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b1fa0eb9899880800000000000000
+      internalID: -8603694163794217229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f929359e57f4810800000000000000
+      internalID: 1751748425060359954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e48ce2715b1f60800000000000000
+      internalID: 8006082316617442956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8d4227c0f12e70800000000000000
+      internalID: 9088810261075037473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce04fce738623c0800000000000000
+      internalID: -4384672606532342530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9da7f7908482a80800000000000000
+      internalID: -8491457891776407123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1a5661cdbd3310800000000000000
+      internalID: 1386472898643500623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80503aa337f988610800000000000000
+      internalID: 1623722982920881416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c282fa5ce0c6f560800000000000000
+      internalID: 7347271963472200384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0822a55fdf8c473f0800000000000000
+      internalID: -903876632126020992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f2888515b930f0800000000000000
+      internalID: -1136678326845115801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c16dd91ed720f0800000000000000
+      internalID: -1141699777845410293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a15b7e81c2b3ef0800000000000000
+      internalID: -127459678971684218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f29cf6619f54b0800000000000000
+      internalID: -5449477152584830765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750ed24c951f53de0800000000000000
+      internalID: -1353910745109241769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18e8db561f1c850800000000000000
+      internalID: 6395658365117039027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6cbec7f70d60fa0800000000000000
+      internalID: -5834747021236648204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ffc0a8ea0a65b0800000000000000
+      internalID: -5374471211066592015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09997bd7a9a511b90800000000000000
+      internalID: -7272932303645992560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f6156d576affa0800000000000000
+      internalID: -5766182722068874972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52b2a3584bee140800000000000000
+      internalID: 4750933141222008295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843547a9d253fd40800000000000000
+      internalID: 5616924255028851843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e711909cd434a440800000000000000
+      internalID: 4946136412682524644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd229a4be2157ce10800000000000000
+      internalID: 2217830602544587485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0ad47750c268a0800000000000000
+      internalID: -6313272245764878510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4c9d62b827cbea0800000000000000
+      internalID: -5855679473510660938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0c8a97adfc6c10800000000000000
+      internalID: 2048290826840967983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25285aba5dba506e0800000000000000
+      internalID: -1871901135906438574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e844a3f07402a50800000000000000
+      internalID: 6494268793395908107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7e9552e85d2e00800000000000000
+      internalID: 1021570419605273335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_010_WALD_Pinsel_Gestein_Beta_001_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd872cf1c5806cfd0800000000000000
+      internalID: -2322159366100059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

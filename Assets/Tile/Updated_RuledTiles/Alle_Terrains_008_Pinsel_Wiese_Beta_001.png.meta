@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: a4be37348ba5f724ca7001a1cb04749f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7422896603556601833
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_0
+  - first:
+      213: -7011099371596202020
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_1
+  - first:
+      213: 8376707889682337727
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_2
+  - first:
+      213: -1518331956272111988
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_3
+  - first:
+      213: -1421087363269794790
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_4
+  - first:
+      213: 5845231284952800775
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_5
+  - first:
+      213: 4702330700466396094
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_6
+  - first:
+      213: 1619918997600939672
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_7
+  - first:
+      213: -7268513458737516013
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_8
+  - first:
+      213: -4648691944417046995
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_9
+  - first:
+      213: -5304117118385635409
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_10
+  - first:
+      213: -4601132741485531517
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_11
+  - first:
+      213: 8769036011299849886
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_12
+  - first:
+      213: -4670919482994552682
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_13
+  - first:
+      213: -3365197997397248994
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_14
+  - first:
+      213: -3399386989022590278
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_15
+  - first:
+      213: -6338711530598044948
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_16
+  - first:
+      213: 6543407682888167824
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_17
+  - first:
+      213: -1220671697877526157
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_18
+  - first:
+      213: -5685329633295912959
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_19
+  - first:
+      213: -4390447037719507251
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_20
+  - first:
+      213: 318873027957702594
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_21
+  - first:
+      213: 5824641481235622494
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_22
+  - first:
+      213: -3459602584850288458
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_23
+  - first:
+      213: 2609801474238137705
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_24
+  - first:
+      213: -810896061388505399
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_25
+  - first:
+      213: 7285735413369538316
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_26
+  - first:
+      213: 3033100184212122443
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_27
+  - first:
+      213: 5622168119899933820
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_28
+  - first:
+      213: -8852348431361640835
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_29
+  - first:
+      213: -7513565919267109134
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_30
+  - first:
+      213: -3637956218841433168
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_31
+  - first:
+      213: -2157803750039352176
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_32
+  - first:
+      213: -9202622260050955179
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_33
+  - first:
+      213: -5821285977613149734
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_34
+  - first:
+      213: -5414140584409310443
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_35
+  - first:
+      213: -4497318662613960496
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_36
+  - first:
+      213: -6433279106481278423
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_37
+  - first:
+      213: -6308453458241489242
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_38
+  - first:
+      213: 3058367383902849900
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_39
+  - first:
+      213: -8114912651468595327
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_40
+  - first:
+      213: 831645971295693545
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_41
+  - first:
+      213: -7391526309570223911
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_42
+  - first:
+      213: -2394232072472402222
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_43
+  - first:
+      213: -8483096704397641658
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_44
+  - first:
+      213: 860210641498961492
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_45
+  - first:
+      213: 8654067216304154335
+    second: Alle_Terrains_008_Pinsel_Wiese_Beta_001_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd17bf12d630760800000000000000
+      internalID: 7422896603556601833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3b07944293be90800000000000000
+      internalID: -7011099371596202020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf4ab7a17b004470800000000000000
+      internalID: 8376707889682337727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed647512dcdeae0800000000000000
+      internalID: -1518331956272111988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14e1858298474ce0800000000000000
+      internalID: -1421087363269794790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9c9162ee6e1150800000000000000
+      internalID: 5845231284952800775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb96b9abd8024140800000000000000
+      internalID: 4702330700466396094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e29e0eebb1b7610800000000000000
+      internalID: 1619918997600939672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fdcef48d012b90800000000000000
+      internalID: -7268513458737516013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4dce6e478c7fb0800000000000000
+      internalID: -4648691944417046995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3e8f459df366b0800000000000000
+      internalID: -5304117118385635409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee553462e7520c0800000000000000
+      internalID: -4601132741485531517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c22cbacfd1b970800000000000000
+      internalID: 8769036011299849886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69098a15a7f8d2fb0800000000000000
+      internalID: -4670919482994552682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14f74e304a6c41d0800000000000000
+      internalID: -3365197997397248994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba49315b83f2d0d0800000000000000
+      internalID: -3399386989022590278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae705627f5808a0800000000000000
+      internalID: -6338711530598044948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0917c1f7e9adeca50800000000000000
+      internalID: 6543407682888167824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37913a4ee8d4f0fe0800000000000000
+      internalID: -1220671697877526157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100356812d6a911b0800000000000000
+      internalID: -5685329633295912959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce00974eaff113c0800000000000000
+      internalID: -4390447037719507251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3fd7545ddc6400800000000000000
+      internalID: 318873027957702594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aed01219845d050800000000000000
+      internalID: 5824641481235622494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b9f167c50dffc0800000000000000
+      internalID: -3459602584850288458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965414e0d90e73420800000000000000
+      internalID: 2609801474238137705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cebc27145e1fb4f0800000000000000
+      internalID: -810896061388505399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c070069c1c12c1560800000000000000
+      internalID: 7285735413369538316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba2282c8cb71a20800000000000000
+      internalID: 3033100184212122443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c49261e14f50e40800000000000000
+      internalID: 5622168119899933820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f3b0e004262580800000000000000
+      internalID: -8852348431361640835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64a91ea937ab790800000000000000
+      internalID: -7513565919267109134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb788bf712638dc0800000000000000
+      internalID: -3637956218841433168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c06effbe0fd02e0800000000000000
+      internalID: -2157803750039352176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547f83efc7b94080800000000000000
+      internalID: -9202622260050955179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d760fe33a63fa0800000000000000
+      internalID: -5821285977613149734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd146e2db1dd4b0800000000000000
+      internalID: -5414140584409310443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f82111805691c0800000000000000
+      internalID: -4497318662613960496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922bd35dcb668b6a0800000000000000
+      internalID: -6433279106481278423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67e6bd00fd378a0800000000000000
+      internalID: -6308453458241489242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8b268ee0817a20800000000000000
+      internalID: 3058367383902849900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f14e920f9026f80800000000000000
+      internalID: -8114912651468595327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae6f9ca999a8b00800000000000000
+      internalID: 831645971295693545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ec12cbf50c6990800000000000000
+      internalID: -7391526309570223911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66f628d9af5ced0800000000000000
+      internalID: -2394232072472402222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64877132e7cf54a80800000000000000
+      internalID: -8483096704397641658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4567e86550510fb00800000000000000
+      internalID: 860210641498961492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle_Terrains_008_Pinsel_Wiese_Beta_001_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a922384c691870800000000000000
+      internalID: 8654067216304154335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

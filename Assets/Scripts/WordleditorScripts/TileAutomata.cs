@@ -7,6 +7,12 @@ using Assets;
 
 public class TileAutomata : MonoBehaviour
 {
+    //Player Spawn Data START
+    public GameObject SpawningObject;
+    public Tilemap ObjTilemap;
+    public int maxPlayerAmount = 1;
+    //Player Spawn Data END
+
     [Range(0, 100)]
     public int iniWald;
 
@@ -64,10 +70,12 @@ public class TileAutomata : MonoBehaviour
     public Tilemap UnwalkableMap;
     public Tilemap GroundMap;
     public Tilemap RuleTileMap;
+    public Tilemap BushMap;
     //public Tilemap BackgroundMap;
 
     public UnitTile waldTrees;
     public RuleTile RuledWaldTile;
+    public UnitTile waldBushes;
     public UnitTile wasserTiefe;
     public RuleTile RuledWasserTile;
     public SpawnUnitTile wieseHight;
@@ -151,6 +159,8 @@ public class TileAutomata : MonoBehaviour
                     // Konfiguration des hinzuzufügenden Tiles
                     waldTrees.Units = CalculateUnits(neighborCount[FeldTerrain.Wald], waldTrees.UnitGenerationMinimum, waldTrees.UnitGenerationMaximum); //waldTrees.Sprites.Length
                     ObjectMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), waldTrees);
+                    waldBushes.Units = (Random.Range(0, 1000));
+                    BushMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), waldBushes);
 
                     UnwalkableMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), RuledWaldTile);
                 }
@@ -347,6 +357,7 @@ public class TileAutomata : MonoBehaviour
                 {
                     var feld = new Feld { Terrain = FeldTerrain.Wiese };
                     _gameData.SetFeld(feld, x, y);
+                    activateSpawnPlayer();
                 }
             }
         }
@@ -355,6 +366,33 @@ public class TileAutomata : MonoBehaviour
     {
         doSim(rechenRunden);
     }
+
+    public void activateSpawnPlayer()
+    {
+        //Player Spawn void Start() START
+        var playerAmount = 0;
+        for (playerAmount = 0; playerAmount < maxPlayerAmount; playerAmount++)
+        {
+            SpawnPlayer();
+        }
+        //Player Spawn void Start() END
+    }
+
+    //Player Spawn Function START
+    public void SpawnPlayer()
+    {
+        int randomX = Random.Range(-64 / 4, 64 / 4);
+        int randomY = Random.Range(-64 / 4, 64 / 4);
+
+        Vector3Int cellPosition = new Vector3Int(randomX, randomY, 0);
+
+        Vector3 position = ObjTilemap.CellToWorld(cellPosition);
+
+        Instantiate(SpawningObject, position, Quaternion.identity);
+        //Debug.Log("Piece spawned at" + " " + position);
+    }
+    //Player Spawn Function END
+
     // Update is called once per frame
     void Update()
     {   // Befehl zum Start
@@ -401,6 +439,7 @@ public void SaveAssetMap()
         UnwalkableMap.ClearAllTiles();
         GroundMap.ClearAllTiles();
         RuleTileMap.ClearAllTiles();
+        BushMap.ClearAllTiles();
 
         if (complete)
         {
