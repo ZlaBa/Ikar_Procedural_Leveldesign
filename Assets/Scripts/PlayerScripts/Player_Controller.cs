@@ -73,11 +73,88 @@ public class Player_Controller : MonoBehaviour
     {
         List<Sprite> selectedSprites = null;
 
+        /*if (direction.y > 0 && direction.x > 0) //north+east
+        {
+            selectedSprites = Walk_NE_Sprites;
+            Debug.Log("Walking NE");
+        }
+
+        if (direction.y > 0 && direction.x < 0) //north+west
+        {
+            selectedSprites = Walk_NW_Sprites;
+            Debug.Log("Walking NW");
+        }*/
+
         if (direction.y > 0) //north
         {
-            if (direction.x > 0) //east
+            if (direction.y > 0 && direction.x > 0) //north+east
             {
                 selectedSprites = Walk_NE_Sprites;
+                Debug.Log("Walking NE");
+            }
+
+            else if (direction.y > 0 && direction.x < 0) //north+west
+            {
+                selectedSprites = Walk_NW_Sprites;
+                Debug.Log("Walking NW");
+            }
+
+            else
+            {
+            selectedSprites = Walk_N_Sprites;
+            Debug.Log("Walking N");
+            }
+        }
+
+        else if (direction.y < 0) //south
+        {
+            if (direction.y < 0 && direction.x > 0) //south+east
+            {
+                selectedSprites = Walk_SE_Sprites;
+                Debug.Log("Walking SE");
+            }
+
+            else if (direction.y < 0 && direction.x < 0) //sotuh+west
+            {
+                selectedSprites = Walk_SW_Sprites;
+                Debug.Log("Walking SW");
+            }
+
+            else
+            {
+                selectedSprites = Walk_S_Sprites;
+                Debug.Log("Walking S");
+            }
+        }
+
+        else if (direction.y == 0 && direction.x > 0) //east
+        {
+            selectedSprites = Walk_E_Sprites;
+            Debug.Log("Walking E");
+        }
+
+        else if (direction.y == 0 && direction.x < 0) //west
+        {
+            selectedSprites = Walk_W_Sprites;
+            Debug.Log("Walking W");
+        }
+
+        /*if (direction.y > 0) //north
+    {
+        if (direction.x > 0) //east
+        {
+            selectedSprites = Walk_NE_Sprites;
+        }
+        else
+        {
+            selectedSprites = Walk_N_Sprites;
+        }
+    }*/
+        /*else if (direction.y > 0) //north 
+        {
+            if (direction.x < 0) //west
+            {
+                selectedSprites = Walk_NW_Sprites;
             }
             else
             {
@@ -95,6 +172,25 @@ public class Player_Controller : MonoBehaviour
                 selectedSprites = Walk_S_Sprites;
             }
         }
+        else if (direction.y < 0) //south 
+        {
+            if (direction.x < 0) //west
+            {
+                selectedSprites = Walk_SW_Sprites;
+            }
+            else
+            {
+                selectedSprites = Walk_S_Sprites;
+            }
+        }
+        else if (direction.x < 0) //west
+        {
+            selectedSprites = Walk_W_Sprites;
+        }
+        else if (direction.x > 0) //east
+        {
+            selectedSprites = Walk_E_Sprites;
+        }*/
         return selectedSprites;
     }
 }
