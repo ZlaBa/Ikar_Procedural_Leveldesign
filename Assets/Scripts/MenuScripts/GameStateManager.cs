@@ -11,6 +11,7 @@ public class GameStateManager : MonoBehaviour
     public GameObject _inGameAnleitung;
     public GameObject GameOverScreen;
     public GameObject YouWinScreen;
+    public GameObject BackgroundSound;
 
     bool GameIsOver = false;
 
@@ -33,10 +34,12 @@ public class GameStateManager : MonoBehaviour
         {
             Time.timeScale = 1;
             GameIsPaused = false;
+            AudioListener.pause = false;
         } else
         {
             Time.timeScale = 0;
             GameIsPaused = true;
+            AudioListener.pause = true;
         }
     }
 

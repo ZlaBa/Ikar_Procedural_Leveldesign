@@ -45,7 +45,7 @@ public class Player_Controller : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
         //get direction of input
         direction = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized;
@@ -58,6 +58,7 @@ public class Player_Controller : MonoBehaviour
         if (directionSprites != null) //holding a direction
         {
             float playTime = Time.time - idleTime; //time walking
+            //Debug.Log(playTime);
             int totalFrames = (int)(playTime * frameRate); //total frames since start
             int frame = totalFrames % directionSprites.Count; //current frame
 
@@ -66,24 +67,13 @@ public class Player_Controller : MonoBehaviour
         else // holding nothing, input is neutral
         {
             idleTime = Time.time;
+            //Debug.Log("idle Time = " + Time.time);
         }
     }
 
     List<Sprite> GetSpriteDirection()
     {
         List<Sprite> selectedSprites = null;
-
-        /*if (direction.y > 0 && direction.x > 0) //north+east
-        {
-            selectedSprites = Walk_NE_Sprites;
-            Debug.Log("Walking NE");
-        }
-
-        if (direction.y > 0 && direction.x < 0) //north+west
-        {
-            selectedSprites = Walk_NW_Sprites;
-            Debug.Log("Walking NW");
-        }*/
 
         if (direction.y > 0) //north
         {
@@ -139,59 +129,76 @@ public class Player_Controller : MonoBehaviour
             Debug.Log("Walking W");
         }
 
-        /*if (direction.y > 0) //north
-    {
-        if (direction.x > 0) //east
-        {
-            selectedSprites = Walk_NE_Sprites;
-        }
-        else
-        {
-            selectedSprites = Walk_N_Sprites;
-        }
-    }*/
-        /*else if (direction.y > 0) //north 
-        {
-            if (direction.x < 0) //west
-            {
-                selectedSprites = Walk_NW_Sprites;
-            }
-            else
-            {
-                selectedSprites = Walk_N_Sprites;
-            }
-        }
-        else if (direction.y < 0) //south 
-        {
-            if (direction.x > 0) //east
-            {
-                selectedSprites = Walk_SE_Sprites;
-            }
-            else
-            {
-                selectedSprites = Walk_S_Sprites;
-            }
-        }
-        else if (direction.y < 0) //south 
-        {
-            if (direction.x < 0) //west
-            {
-                selectedSprites = Walk_SW_Sprites;
-            }
-            else
-            {
-                selectedSprites = Walk_S_Sprites;
-            }
-        }
-        else if (direction.x < 0) //west
-        {
-            selectedSprites = Walk_W_Sprites;
-        }
-        else if (direction.x > 0) //east
-        {
-            selectedSprites = Walk_E_Sprites;
-        }*/
         return selectedSprites;
     }
 }
+
+/* OLD SCRIPT
+
+    
+        /*if (direction.y > 0 && direction.x > 0) //north+east
+        {
+            selectedSprites = Walk_NE_Sprites;
+            Debug.Log("Walking NE");
+        }
+
+        if (direction.y > 0 && direction.x < 0) //north+west
+        {
+            selectedSprites = Walk_NW_Sprites;
+            Debug.Log("Walking NW");
+        }*/
+
+/*if (direction.y > 0) //north
+{
+if (direction.x > 0) //east
+{
+    selectedSprites = Walk_NE_Sprites;
+}
+else
+{
+    selectedSprites = Walk_N_Sprites;
+}
+}*/
+/*else if (direction.y > 0) //north 
+{
+    if (direction.x < 0) //west
+    {
+        selectedSprites = Walk_NW_Sprites;
+    }
+    else
+    {
+        selectedSprites = Walk_N_Sprites;
+    }
+}
+else if (direction.y < 0) //south 
+{
+    if (direction.x > 0) //east
+    {
+        selectedSprites = Walk_SE_Sprites;
+    }
+    else
+    {
+        selectedSprites = Walk_S_Sprites;
+    }
+}
+else if (direction.y < 0) //south 
+{
+    if (direction.x < 0) //west
+    {
+        selectedSprites = Walk_SW_Sprites;
+    }
+    else
+    {
+        selectedSprites = Walk_S_Sprites;
+    }
+}
+else if (direction.x < 0) //west
+{
+    selectedSprites = Walk_W_Sprites;
+}
+else if (direction.x > 0) //east
+{
+    selectedSprites = Walk_E_Sprites;
+}*/
+
 
